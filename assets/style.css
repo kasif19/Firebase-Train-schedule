@@ -1,0 +1,43 @@
+body {
+    background: url('../assets/images/train1.jpg');
+    background-size:cover; 
+    background-repeat:no-repeat;
+    opacity: .9;
+} 
+
+.jumbotron {
+	
+    border-bottom: 3px solid white;
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+}
+
+.jumbotron > h1 {
+    color: black;
+    font-family: 'Special Elite', serif;
+}
+
+.jumbotron > h3 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#currentTrainHeading {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold !important;
+}
+
+#addTrainHeading {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold !important;
+}
+
+#addTrainBox {
+    width: 400px; 
+}
+
+#currentTrainBox {
+    width: 700px; 
+    height: 396x; 
+    float: right; 
+}
+
